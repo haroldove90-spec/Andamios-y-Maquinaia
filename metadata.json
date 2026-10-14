@@ -1,0 +1,8 @@
+{
+  "name": "Andamios y Maquinaria",
+  "description": "Sistema de gestión integral para renta, catálogo, inventario en tiempo real, clientes, órdenes, remisiones y cobranza de andamios y maquinaria de construcción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
